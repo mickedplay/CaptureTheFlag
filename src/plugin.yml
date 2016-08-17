@@ -1,0 +1,5 @@
+name: CaptureTheFlag
+main: play.mickedplay.ctf.CTFPlugin
+author: mickedplay
+version: 1.0.0
+commands:
